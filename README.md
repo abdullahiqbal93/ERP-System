@@ -94,7 +94,7 @@ For any questions or support, please contact:
 
 Name: Muhammed abdullah 
 Email: mohamedabdullah93@gmail.com 
-GitHub: https://github.com/abdullahiqbal93
+Linkedin: https://www.linkedin.com/in/muhammed-abdullah93
 
 
 ---
