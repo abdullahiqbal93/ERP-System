@@ -125,7 +125,6 @@
                             </button>
                         </div>
                         <div class="modal-body">
-            
                             <form action="crud/item_process.php" method="post">
                                 <div class="form-group">
                                     <label for="item_code">Item Code</label>
